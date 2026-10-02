@@ -1,0 +1,131 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "outputDirectory": "dist",
+  "redirects": [
+    {
+      "source": "/activities",
+      "destination": "/tours/",
+      "statusCode": 301
+    },
+    {
+      "source": "/activities/1",
+      "destination": "/tours/pamir-highway-4x4/",
+      "statusCode": 301
+    },
+    {
+      "source": "/activities/2",
+      "destination": "/tours/pamir-classic-4x4/",
+      "statusCode": 301
+    },
+    {
+      "source": "/activities/3",
+      "destination": "/tours/cross-border-trekking/",
+      "statusCode": 301
+    },
+    {
+      "source": "/activities/4",
+      "destination": "/tours/mountain-lakes-trekking/",
+      "statusCode": 301
+    },
+    {
+      "source": "/activities/5",
+      "destination": "/tours/fann-mountain-lakes/",
+      "statusCode": 301
+    },
+    {
+      "source": "/activities/6",
+      "destination": "/tours/snow-leopard-expedition/",
+      "statusCode": 301
+    },
+    {
+      "source": "/activities/7",
+      "destination": "/tours/freezing-wall-trek/",
+      "statusCode": 301
+    },
+    {
+      "source": "/activities/8",
+      "destination": "/tours/pamir-trail-section-8-9/",
+      "statusCode": 301
+    },
+    {
+      "source": "/activities/9",
+      "destination": "/tours/ancient-cities/",
+      "statusCode": 301
+    },
+    {
+      "source": "/activities/10",
+      "destination": "/tours/motorcycle-high-pamirs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/contact-us",
+      "destination": "/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/about-us",
+      "destination": "/about/",
+      "statusCode": 301
+    },
+    {
+      "source": "/destination-detail/3",
+      "destination": "/destinations/iskanderkul-lake/",
+      "statusCode": 301
+    },
+    {
+      "source": "/destination-detail/5",
+      "destination": "/destinations/lake-sarez/",
+      "statusCode": 301
+    },
+    {
+      "source": "/destination-detail/6",
+      "destination": "/destinations/seven-lakes/",
+      "statusCode": 301
+    },
+    {
+      "source": "/destination-detail/7",
+      "destination": "/destinations/karakul-lake/",
+      "statusCode": 301
+    },
+    {
+      "source": "/destination-detail/8",
+      "destination": "/destinations/fann-mountains/",
+      "statusCode": 301
+    },
+    {
+      "source": "/destination-detail/9",
+      "destination": "/destinations/khujand/",
+      "statusCode": 301
+    },
+    {
+      "source": "/destination-detail/10",
+      "destination": "/destinations/hissar/",
+      "statusCode": 301
+    },
+    {
+      "source": "/destination-detail/11",
+      "destination": "/destinations/bartang-valley/",
+      "statusCode": 301
+    },
+    {
+      "source": "/destination-detail/12",
+      "destination": "/destinations/wakhan-valley/",
+      "statusCode": 301
+    },
+    {
+      "source": "/destination-detail/13",
+      "destination": "/destinations/khorog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/destination-detail/14",
+      "destination": "/destinations/murghab/",
+      "statusCode": 301
+    },
+    {
+      "source": "/destination-detail/15",
+      "destination": "/destinations/panjakent/",
+      "statusCode": 301
+    }
+  ]
+}

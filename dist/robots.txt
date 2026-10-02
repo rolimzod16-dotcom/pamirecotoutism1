@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pamirecotourism.com/sitemap.xml
